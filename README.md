@@ -9,11 +9,13 @@ Come collaborare
 
 Ogni contributo gratuito è bene accetto, soprattutto da professionisti ed esperti in materia legale e nell'ambito del diritto di famiglia.
 
-Ci sono due modi principali per collaborare:
+Ci sono più modi per collaborare:
 
-1. (Facile e veloce) Aprire un nuovo post nella tab [Issues](https://github.com/dirittodifamiglia/propostaddl/issues) specificando cosa dovrebbe essere cambiato o aggiunto nel documento. Il post può anche fungere da spazio di discussione e confronto.
+1. (Facile e veloce) Per discussioni generali o Q&A (domanda e risposta) lo spazio [Discussions](https://github.com/dirittodifamiglia/propostaddl/discussions) è a disposizione come forum e punto di confronto. Un account GitHub è richiesto.
 
-2. (Approccio da programmatori) [Forkare il repository](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo), modificare il documento e poi fare una [Pull Request - PR](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests) per avere i cambiamenti integrati in questo repository
+2. (Facile e veloce) Per problemi nel testo del DDL, criticità o per cambiamenti specifici si può creare un nuovo post nella tab [Issues](https://github.com/dirittodifamiglia/propostaddl/issues) specificando cosa dovrebbe essere cambiato o aggiunto nel documento. Il post può anche fungere da spazio di discussione e confronto anche se lo spazio raccomandato per questo genere di cose è la tab [Discussions](https://github.com/dirittodifamiglia/propostaddl/discussions). Un account GitHub è richiesto.
+
+3. (Approccio da programmatori) E' possibile [forkare il repository](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo), modificare il documento e poi fare una [Pull Request - PR](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests) per avere i cambiamenti integrati in questo repository.
 
 Regolamento
 ----------------
