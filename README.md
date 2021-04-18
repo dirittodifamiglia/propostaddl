@@ -1,4 +1,4 @@
-[![latest_draft](https://img.shields.io/badge/-Scarica%20l'ultima%20bozza%20del%20DDL-green)](https://github.com/dirittodifamiglia/propostaddl/releases/latest/download/ddl.pdf)
+[![latest_draft](https://img.shields.io/badge/-Scarica%20l'ultima%20bozza%20del%20DDL-green?style=for-the-badge)](https://github.com/dirittodifamiglia/propostaddl/releases/latest/download/ddl.pdf)
 
 Questo repository contiene la bozza per una nuova proposta di legge (DDL) sulla riforma del diritto di famiglia italiano.
 
